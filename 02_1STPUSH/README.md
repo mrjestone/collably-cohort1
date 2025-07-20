@@ -10,7 +10,7 @@ In this task, you will connect your local Git repository to a remote repository 
 
 ---
 
-### **Today's Task: Put Your Work Online**
+### **Task: Put Your Work Online**
 
 You will take the project you created yesterday and upload its history to a new GitHub repository.
 
@@ -24,7 +24,7 @@ You will take the project you created yesterday and upload its history to a new 
 
 2.  **Connect Your Local Project:**
     *   On the new repository page, GitHub will show you a URL. Copy the HTTPS URL.
-    *   Go back to your `collably-bootcamp` folder in your VS Code terminal (the same one from yesterday).
+    *   Go back to your `collably-bootcamp` folder in your VS Code terminal (the same one from previous task).
     *   Run the following command, replacing `<URL>` with the one you just copied:
         ```bash
         git remote add origin <URL>
