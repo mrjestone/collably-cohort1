@@ -33,4 +33,4 @@ Your mission is to create a new project on your computer, track it with Git, and
 **You've just made your first commit! Congratulations!**
 
 ### **Stuck?**
-If you encounter any errors, copy the error message and paste it into our `#help-requests` channel on Discord. We're here to help!
+If you encounter any errors, copy the error message and paste it into our `#help-requests` channel on Discord. I'm here to help!
