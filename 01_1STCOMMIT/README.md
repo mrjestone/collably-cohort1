@@ -1,7 +1,7 @@
 # Task 1: Your First Local Commit
 
 ### **Objective**
-By the end of this session, you will have created a local Git repository, added a file, and made your very first commit. You'll understand the basic workflow for saving your work like a professional developer.
+By the end of this task, you will have created a local Git repository, added a file, and made your very first commit. You'll understand the basic workflow for saving your work like a professional developer.
 
 ### **Recap of Today's Lecture**
 *   **Git** is our "save system" (version control).
