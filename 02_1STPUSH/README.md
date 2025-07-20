@@ -1,4 +1,4 @@
-# Day 2: Pushing to GitHub
+# Task 2: Pushing to GitHub
 
 ### **Objective**
 Today, you will connect your local Git repository to a remote repository on GitHub. You will push your work to the cloud, making it accessible from anywhere and starting the foundation of your professional portfolio.
