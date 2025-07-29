@@ -3,7 +3,7 @@
 ### **Objective**
 To understand how to write basic JavaScript, declare variables to store data, use different data types, and perform simple operations.
 
-### **Recap of Today's Lecture**
+### **Recap of The Task**
 *   JavaScript adds interactivity to our websites.
 *   We use `<script src="script.js" defer></script>` to link our JS file.
 *   The **developer console** is where we use `console.log()` to check our work.
@@ -13,7 +13,7 @@ To understand how to write basic JavaScript, declare variables to store data, us
 
 ---
 
-### **Today's Task: Your First Script**
+### **Task: Your First Script**
 
 You will create your first JavaScript file and use it to define and display information about yourself in the browser console.
 

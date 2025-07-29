@@ -3,7 +3,7 @@
 ### **Objective**
 To store and access collections of data using Arrays and Objects, create reusable code blocks with Functions, and control program flow with `if/else` statements.
 
-### **Recap of Today's Lecture**
+### **Recap of The task**
 *   **Arrays `[]`** are for ordered lists of items, accessed by a numerical index (starting at 0).
 *   **Objects `{}`** are for unordered collections of labeled data (key-value pairs), accessed by the key name (e.g., `user.name`).
 *   **Functions `()`** are reusable blocks of code. We define them once and can call them many times. They can take in data (parameters) and can give back a result (`return`).
@@ -11,7 +11,7 @@ To store and access collections of data using Arrays and Objects, create reusabl
 
 ---
 
-### **Today's Task: Build a Mini "User Profile" System**
+### **Task: Build a Mini "User Profile" System**
 
 You will use arrays, objects, and functions to model a simple user profile and create logic to check their status.
 
