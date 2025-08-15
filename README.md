@@ -87,5 +87,5 @@ We will use a tool called **Vite** to quickly create a modern React project.
     *   Navigate back to the root `collably-bootcamp` folder.
     *   Create a `.gitignore` file inside `react-counter-app` if it doesn't exist, and make sure it contains `node_modules` and `dist`.
     *   Stage, commit, and push your new `react-counter-app` project.
-    *   Use the commit message: `feat: Create first React app with a stateful counter`.
+    *   Use the commit message : `feat: Create first React app with a stateful counter`.
 ```
